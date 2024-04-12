@@ -27,12 +27,21 @@ No geral, este projeto me permitiu aplicar uma variedade de habilidades e concei
 ###
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/41850079-00b0-491a-98ee-60381ba0c441" style="width: 200px; height: 200px; object-fit: cover;" alt="Menu">
-  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/28b74c7d-0c40-415f-a74d-ea670ec21ff2" style="width: 200px; height: 200px; object-fit: cover;" alt="1. Adicionar livro">
-  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/1be2066b-b6d2-4715-b5d0-a468fdd14180" style="width: 200px; height: 200px; object-fit: cover;" alt="2. Listar livros">
-  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/e97a4aba-1dec-4ef5-bee1-ce3ac7351219" style="width: 200px; height: 200px; object-fit: cover;" alt="3. Emprestar livro">
-  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/fe28abcf-6ab8-4a69-be5b-aac6b2d4c266" style="width: 200px; height: 200px; object-fit: cover;" alt="4. Devolver livro">
+  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/41850079-00b0-491a-98ee-60381ba0c441" style="width: 300px; height: 220px; object-fit: cover;" alt="Menu">
+  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/28b74c7d-0c40-415f-a74d-ea670ec21ff2" style="width: 300px; height: 220px; object-fit: cover;" alt="1. Adicionar livro">
+  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/1be2066b-b6d2-4715-b5d0-a468fdd14180" style="width: 300px; height: 220px; object-fit: cover;" alt="2. Listar livros">
+  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/e97a4aba-1dec-4ef5-bee1-ce3ac7351219" style="width: 300px; height: 220px; object-fit: cover;" alt="3. Emprestar livro">
+  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/fe28abcf-6ab8-4a69-be5b-aac6b2d4c266" style="width: 300px; height: 220px; object-fit: cover;" alt="4. Devolver livro">
+  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/8efa2551-7152-44db-bb92-efa372d6d63a" style="width: 300px; height: 220px; object-fit: cover;" alt="4. Saindo">
+  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/1f16d4f3-da55-4b9b-926f-201689f87513" style="width: 300px; height: 220px; object-fit: cover;" alt="4. Erro">
+  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/c7ced539-7bfc-43fc-b68a-aaa5e3c34b4e" style="width: 300px; height: 220px; object-fit: cover;" alt="4. Erro">
+  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/e8b8294a-5f48-40d9-abe6-caceab45aa04" style="width: 300px; height: 220px; object-fit: cover;" alt="4. Erro">
+  <img src="https://github.com/gbprg/Biblioteca/assets/105727647/136b9886-edea-408f-8225-7183de23be2c" style="width: 300px; height: 220px; object-fit: cover;" alt="4. Erro">
+
+
 </div>
+
+
 
 
 
