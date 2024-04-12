@@ -26,7 +26,7 @@ No geral, este projeto me permitiu aplicar uma variedade de habilidades e concei
 
 ###
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
   <img src="https://github.com/gbprg/Biblioteca/assets/105727647/41850079-00b0-491a-98ee-60381ba0c441" style="width: 300px; height: 220px; object-fit: cover;" alt="Menu">
   <img src="https://github.com/gbprg/Biblioteca/assets/105727647/28b74c7d-0c40-415f-a74d-ea670ec21ff2" style="width: 300px; height: 220px; object-fit: cover;" alt="1. Adicionar livro">
   <img src="https://github.com/gbprg/Biblioteca/assets/105727647/1be2066b-b6d2-4715-b5d0-a468fdd14180" style="width: 300px; height: 220px; object-fit: cover;" alt="2. Listar livros">
