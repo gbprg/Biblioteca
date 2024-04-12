@@ -1,39 +1,24 @@
+# Arquivos de compilação
+bin/
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
 
-### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-*.iws
+# Arquivos de configuração
 *.iml
-*.ipr
-*.gitignore
+.idea/
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+# Arquivos de build
 build/
-!**/src/main/**/build/
-!**/src/test/**/build/
+out/
 
-### VS Code ###
-.vscode/
+# Logs e arquivos temporários
+log/
+temp/
+*.log
 
-### Mac OS ###
+# Arquivos de dependência Maven
+.idea_modules/
+*.ipr
+*.iws
+
+# Outros
 .DS_Store
