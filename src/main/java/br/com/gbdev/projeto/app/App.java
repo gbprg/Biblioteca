@@ -58,6 +58,9 @@ public class App {
                     }
                     scanner.nextLine(); // Limpa o buffer do scanner
                     break;
+                case 5:
+                    System.out.println("Saindo...");
+                    break;
                 default:
                     System.out.println("Opção inválida. Por favor, escolha uma opção entre 1 e 5.");
             }
